@@ -35,8 +35,8 @@
 - [x] In aboutus.html, apply the d-none and d-sm-block Bootstrap responsive classes to the p elements containing the descriptions of the community partners so that they are hidden on only extra small screens.
 - Read the documentation on these classes. See how the combination of classes shown here enables you to hide the content for XS screen sizes. 
 - [x] Also apply these two classes to the three p elements in the body of index.html.
-- [] In index.html's footer, in the Links, also update the link to About to point to "aboutus.html" instead of "#". 
-- [] Afterward, in a XS viewport, the Community Partners section of your aboutus.html page should look like this: see assignment page
+- [x] In index.html's footer, in the Links, also update the link to About to point to "aboutus.html" instead of "#". 
+- [x] Afterward, in a XS viewport, the Community Partners section of your aboutus.html page should look like this: see assignment page
 
 
 
