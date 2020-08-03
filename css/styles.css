@@ -31,6 +31,12 @@ header h2 {
     min-height: 200px;
 }
 
+.tab-content {
+    border: 1px solid #DDD;
+    border-top: none;
+    padding: 10px;
+}
+
 .site-footer {
     background-image: linear-gradient(#CEC8FF, white);
     padding: 20px 0;
