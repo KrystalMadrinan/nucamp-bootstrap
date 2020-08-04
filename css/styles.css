@@ -25,6 +25,14 @@ header h2 {
     background-color: #901CAD;
 }
 
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.carousel {
+    border: solid #5637DD;
+}
+
 .row-content {
     padding: 50px 0;
     border-bottom: 1px ridge;
